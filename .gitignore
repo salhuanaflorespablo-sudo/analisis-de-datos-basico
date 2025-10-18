@@ -1,0 +1,15 @@
+# Ignorar carpetas de Python
+__pycache__/
+.venv/
+
+# Ignorar todos los proyectos excepto la carpeta de análisis de datos
+FizzBuzz.py
+N_book_tipo_jupyter.ipynb
+calculador_simple.py
+contador_palabras.py
+pruebacursor_autocom.py
+ruta_de_text.txt
+
+# Si tu proyecto de análisis está en una subcarpeta:
+# Ignora otros archivos que no sean de la subcarpeta que sí quieres
+# (Asegúrate de no ignorar el README u otros archivos importantes)
