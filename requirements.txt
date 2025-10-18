@@ -1,0 +1,19 @@
+# Dependencias para Análisis de Datos Básico
+# Versiones estables y compatibles
+
+# Manipulación y análisis de datos
+pandas>=2.0.0,<3.0.0
+
+# Visualización de datos
+matplotlib>=3.7.0,<4.0.0
+
+# Computación numérica (dependencia de pandas)
+numpy>=1.24.0,<2.0.0
+
+# Dependencias opcionales para análisis más avanzado
+# Descomenta las siguientes líneas si planeas usar estas librerías:
+
+# scipy>=1.10.0,<2.0.0          # Análisis estadístico avanzado
+# seaborn>=0.12.0,<1.0.0        # Visualizaciones estadísticas
+# jupyter>=1.0.0,<2.0.0         # Para notebooks interactivos
+# scikit-learn>=1.3.0,<2.0.0    # Machine learning básico
